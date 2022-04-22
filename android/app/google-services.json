@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "766205511021",
+    "project_id": "uber-eats-b2de8",
+    "storage_bucket": "uber-eats-b2de8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:766205511021:android:6205001cb77445c718c664",
+        "android_client_info": {
+          "package_name": "com.example.UberEats"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "766205511021-88lmir8ofiru70gt6tr0n1opsr1jfa3i.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.UberEats",
+            "certificate_hash": "78ff79f78798d683fc0ab60c28ae8bf80e155247"
+          }
+        },
+        {
+          "client_id": "766205511021-69qp9h7vogqci4s94prftpqbibmtoi80.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC7a-E9mpzr66RFlehsAKN0ff8LCGHu8Ik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "766205511021-69qp9h7vogqci4s94prftpqbibmtoi80.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
